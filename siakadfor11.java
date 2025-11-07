@@ -19,6 +19,7 @@ public class siakadfor11 {
             // nilai tertinggi dan terendah //
             System.out.println(" nilai tertinggi+ tertinggi");
             System.out.println(" nilai terendah"+ terendah );
+            
     }
 }
 }
